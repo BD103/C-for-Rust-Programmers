@@ -1,6 +1,6 @@
 # C for Rust Programmers
 
-This repository contains examples complimenting my blog post, [C for Rust Programmers](https://bd103.dev/blog/2026-10-03-c-for-rust-programmers/). Each folder corresponds to a section in the article, and contains a C program and an equivalent Rust program.
+This repository contains examples complimenting my blog post, [C for Rust Programmers](https://bd103.dev/blog/2026-10-07-c-for-rust-programmers/). Each folder corresponds to a section in the article, and contains a C program and an equivalent Rust program.
 
 ## Requirements
 
